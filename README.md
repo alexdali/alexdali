@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+[![wakatime](https://wakatime.com/badge/user/8714ccef-e94e-44d1-9965-0d95810af6e6.svg)](https://wakatime.com/@8714ccef-e94e-44d1-9965-0d95810af6e6)
+[![github](https://img.shields.io/github/followers/alexdali?logo=github&style=plastic)](https://github.com/alexdali?tab=followers)
+
+-:hammer_and_wrench: My main tools: Python, JavaScript
+
+
 <!--
 **alexdali/alexdali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
